@@ -2,13 +2,6 @@
 
 This directory contains custom code and output from relevant part of the analysis.
 
-   * 01_OTU_heatmap.ipynb
-   * 02_qPCR_score.ipynb
-   * 03_OTU_ratio.ipynb
-   * 04_16S_shotgun_cor.ipynb
-   * 05_Joint_evidence.ipynb
-   * assets
-
 
 ### Contents
 
