@@ -1,0 +1,16 @@
+Sample,Response,BORR,PDL1.expr,PD1.expr,NSSM,qPCR.score,OTU.ratio,CD8.IHC.density
+P03,NonResponder,Progressive Disease,4,-1.31,294,2.216405956,0.5,0.078183649
+P18,NonResponder,Stable Disease,2.69,1.12,200,0.794006535,1.2,0.210313025
+P21,NonResponder,Stable Disease,5.22,4.37,259,2.834082952,0.75,0.338255109
+P27,Responder,Complete Response,4.1,3.36,551,5.634028769,5,0.344328339
+P28,Responder,Partial Response,6.41,-0.88,982,8.892834485,4.25,0.023527021
+P31,NonResponder,Progressive Disease,1.31,-1.67,173,1.095145494,1,0.162098997
+P38,NonResponder,Progressive Disease,0.77,-2.34,94,1.121795659,0.375,0
+P40,NonResponder,Stable Disease,5.73,2.6,385,4.874302021,0.909090909,0.168255581
+P41,NonResponder,Progressive Disease,3.14,2.57,98,2.164440804,0.272727273,0.147026581
+P22,NonResponder,Progressive Disease,3.07,-0.43,1008,-0.004228951,0.272727273,0.031953121
+P20,Responder,Partial Response,4.9,2.96,164,13.00248915,5.666666667,0.34383414
+P02,Responder,Partial Response,6.23,4.05,1564,2.72389022,3,0.161538571
+P06,NonResponder,Stable Disease,1.47,1.19,90,0.759870581,0.333333333,0.041427331
+P10,NonResponder,Progressive Disease,1.89,-0.74,91,-0.192607425,0.166666667,0.019058796
+P16,Responder,Partial Response,2.52,-2.15,147,13.96453442,3,0.021172789
