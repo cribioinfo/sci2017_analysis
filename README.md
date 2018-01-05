@@ -1,6 +1,6 @@
 # sci2017_analysis
 Data and analysis codes for Matson et al. 2017 manuscript
-**The commensal microbiome is associated with anti-PD-1 efficacy in metastatic melanoma patients**. Please refer to READMEs in `Data` and `Notebook` sub-directory for more detailed information of the files. Description of how the OTU and shotgun species abundance tables are generated from raw FastQ files are provided in the supplementary methods section of the manuscript.
+[**The commensal microbiome is associated with anti-PD-1 efficacy in metastatic melanoma patients**](http://science.sciencemag.org/content/359/6371/104). Please refer to READMEs in `Data` and `Notebook` sub-directory for more detailed information of the files. Description of how the OTU and shotgun species abundance tables are generated from raw FastQ files are provided in the supplementary methods section of the manuscript.
 
 
 ## Contents
