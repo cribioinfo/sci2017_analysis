@@ -18,9 +18,9 @@ P16,Female,Hispanic or Latino,American Indian or Alaska Native,PD-1 (Pembrolizum
 P17,Male,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Progressive Disease,29,No,NA
 P18,Male,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Stable Disease,19,Yes,NA
 P19,Female,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Progressive Disease,53,No,NA
-P20,Male,Not Hispanic or Latino,White,?PD-1 (Nivolumab),Responder,Partial Response,-84,Yes,4
+P20,Male,Not Hispanic or Latino,White,PD-1 (Nivolumab),Responder,Partial Response,-84,Yes,4
 P21,Male,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Stable Disease,-18,Yes,NA
-P22,Female,Not Hispanic or Latino,White,?PD-1 (Nivolumab),NonResponder,Progressive Disease,61,No,NA
+P22,Female,Not Hispanic or Latino,White,PD-1 (Nivolumab),NonResponder,Progressive Disease,61,No,NA
 P23,Female,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),Responder,Complete Response,-100,Yes,2.6
 P24,Female,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),Responder,Partial Response,-69,Yes,2
 P25,Female,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Stable Disease,16,Yes,NA
@@ -36,8 +36,8 @@ P34,Female,Not Hispanic or Latino,White,CTLA-4 (Ipilimumab),Responder,Partial Re
 P35,Female,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Stable Disease,-19,"No, Still on TX",NA
 P36,Male,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),Responder,Partial Response,-62,Yes,3.4
 P37,Male,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),Responder,Partial Response,-36,"No, Still on TX",2.8
-P38,Female,Not Hispanic or Latino,White,?PD-1 (Nivolumab),NonResponder,Progressive Disease,59,No,NA
-P39,Male,Not Hispanic or Latino,White,?PD-1 (Nivolumab),Responder,Partial Response,-76,"No, Still on TX",2.8
-P40,Female,Not Hispanic or Latino,White,?PD-1 (Nivolumab),NonResponder,Stable Disease,2,No,NA
+P38,Female,Not Hispanic or Latino,White,PD-1 (Nivolumab),NonResponder,Progressive Disease,59,No,NA
+P39,Male,Not Hispanic or Latino,White,PD-1 (Nivolumab),Responder,Partial Response,-76,"No, Still on TX",2.8
+P40,Female,Not Hispanic or Latino,White,PD-1 (Nivolumab),NonResponder,Stable Disease,2,No,NA
 P41,Male,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Progressive Disease,242,No,NA
 P42,Female,Not Hispanic or Latino,White,PD-1 (Pembrolizumab),NonResponder,Progressive Disease,45,Yes,NA
